@@ -1,0 +1,1434 @@
+/* LandingPage */
+
+position: relative;
+width: 1728px;
+height: 1271px;
+
+background: #111111;
+
+
+/* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 506px;
+height: 306px;
+left: 41px;
+top: 928px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+
+
+/* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 506px;
+height: 311px;
+left: 41px;
+top: 197px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1645px;
+height: 135px;
+left: 41px;
+top: 33px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1102px;
+height: 1036px;
+left: 584px;
+top: 197px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+
+
+/* Employee Dashboard */
+
+position: absolute;
+width: 549px;
+height: 58px;
+left: 92px;
+top: 71px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Tasks Given To Employee */
+
+position: absolute;
+width: 564px;
+height: 58px;
+left: 624px;
+top: 227px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* John Stark */
+
+position: absolute;
+width: 147px;
+height: 29px;
+left: 221px;
+top: 450px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Links */
+
+position: absolute;
+width: 68px;
+height: 29px;
+left: 84px;
+top: 958px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* EMAIL */
+
+position: absolute;
+width: 70px;
+height: 29px;
+left: 144px;
+top: 1007px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* Facebook */
+
+position: absolute;
+width: 125px;
+height: 29px;
+left: 144px;
+top: 1061px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* instagram */
+
+position: absolute;
+width: 136px;
+height: 29px;
+left: 145px;
+top: 1120px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* github */
+
+position: absolute;
+width: 90px;
+height: 29px;
+left: 144px;
+top: 1179px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* 100k-ai-faces-6 1 */
+
+position: absolute;
+width: 190px;
+height: 190px;
+left: 199px;
+top: 227px;
+
+background: url(100k-ai-faces-6);
+border-radius: 100000px;
+
+
+/* mail 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 81px;
+top: 1007px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 2px solid #808080;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 25%;
+bottom: 45.83%;
+
+border: 2px solid #808080;
+
+
+/* facebook 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 81px;
+top: 1060px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 25%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 2px solid #808080;
+
+
+/* instagram 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 81px;
+top: 1120px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 2px solid #808080;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.51%;
+right: 33.15%;
+top: 33.15%;
+bottom: 33.51%;
+
+border: 2px solid #808080;
+
+
+/* Vector */
+
+position: absolute;
+left: 72.92%;
+right: 27.04%;
+top: 27.08%;
+bottom: 72.92%;
+
+border: 2px solid #808080;
+
+
+/* github 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 78px;
+top: 1180px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 10.42%;
+top: 4.06%;
+bottom: 8.33%;
+
+border: 2px solid #808080;
+
+
+/* Task 1 - loreum ipsum */
+
+position: absolute;
+width: 280px;
+height: 29px;
+left: 863px;
+top: 421px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* Task 1 - loreum ipsum */
+
+position: absolute;
+width: 280px;
+height: 29px;
+left: 863px;
+top: 478px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* Task 1 - loreum ipsum */
+
+position: absolute;
+width: 280px;
+height: 29px;
+left: 863px;
+top: 535px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* Task 1 - loreum ipsum */
+
+position: absolute;
+width: 280px;
+height: 29px;
+left: 863px;
+top: 592px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* Task 1 - loreum ipsum */
+
+position: absolute;
+width: 280px;
+height: 29px;
+left: 863px;
+top: 649px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* Task 1 - loreum ipsum */
+
+position: absolute;
+width: 280px;
+height: 29px;
+left: 863px;
+top: 706px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* Task 1 - loreum ipsum */
+
+position: absolute;
+width: 280px;
+height: 29px;
+left: 863px;
+top: 763px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* Task 1 - loreum ipsum */
+
+position: absolute;
+width: 280px;
+height: 29px;
+left: 863px;
+top: 820px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* Task 1 - loreum ipsum */
+
+position: absolute;
+width: 280px;
+height: 29px;
+left: 863px;
+top: 877px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* Task 1 - loreum ipsum */
+
+position: absolute;
+width: 280px;
+height: 29px;
+left: 863px;
+top: 934px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* Task 1 - loreum ipsum */
+
+position: absolute;
+width: 280px;
+height: 29px;
+left: 863px;
+top: 991px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* Task 1 - loreum ipsum */
+
+position: absolute;
+width: 280px;
+height: 29px;
+left: 863px;
+top: 1048px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* Task 1 - loreum ipsum */
+
+position: absolute;
+width: 280px;
+height: 29px;
+left: 863px;
+top: 1105px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* Task 1 - loreum ipsum */
+
+position: absolute;
+width: 280px;
+height: 29px;
+left: 863px;
+top: 1162px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 11px;
+height: 29px;
+left: 665px;
+top: 421px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* 2 */
+
+position: absolute;
+width: 15px;
+height: 29px;
+left: 665px;
+top: 478px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 15px;
+height: 29px;
+left: 665px;
+top: 535px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* 4 */
+
+position: absolute;
+width: 15px;
+height: 29px;
+left: 665px;
+top: 592px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* 5 */
+
+position: absolute;
+width: 14px;
+height: 29px;
+left: 665px;
+top: 649px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* 6 */
+
+position: absolute;
+width: 15px;
+height: 29px;
+left: 665px;
+top: 706px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* 7 */
+
+position: absolute;
+width: 14px;
+height: 29px;
+left: 665px;
+top: 763px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* 8 */
+
+position: absolute;
+width: 15px;
+height: 29px;
+left: 665px;
+top: 820px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+opacity: 0.8;
+
+
+/* 9 */
+
+position: absolute;
+width: 15px;
+height: 29px;
+left: 665px;
+top: 877px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* 10 */
+
+position: absolute;
+width: 25px;
+height: 29px;
+left: 665px;
+top: 934px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* 11 */
+
+position: absolute;
+width: 21px;
+height: 29px;
+left: 665px;
+top: 991px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* 12 */
+
+position: absolute;
+width: 26px;
+height: 29px;
+left: 665px;
+top: 1048px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* 13 */
+
+position: absolute;
+width: 26px;
+height: 29px;
+left: 665px;
+top: 1105px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* 14 */
+
+position: absolute;
+width: 25px;
+height: 29px;
+left: 665px;
+top: 1162px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* ID */
+
+position: absolute;
+width: 24px;
+height: 29px;
+left: 664px;
+top: 346px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* status */
+
+position: absolute;
+width: 89px;
+height: 29px;
+left: 730px;
+top: 346px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* TASK */
+
+position: absolute;
+width: 59px;
+height: 29px;
+left: 861px;
+top: 346px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #808080;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 759px;
+top: 421px;
+
+border: 1px solid #808080;
+border-radius: 5px;
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 759px;
+top: 478px;
+
+border: 1px solid #808080;
+border-radius: 5px;
+
+
+/* Rectangle 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 759px;
+top: 535px;
+
+border: 1px solid #808080;
+border-radius: 5px;
+
+
+/* Rectangle 10 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 759px;
+top: 592px;
+
+border: 1px solid #808080;
+border-radius: 5px;
+
+
+/* Rectangle 11 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 759px;
+top: 649px;
+
+border: 1px solid #808080;
+border-radius: 5px;
+
+
+/* Rectangle 12 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 759px;
+top: 706px;
+
+border: 1px solid #808080;
+border-radius: 5px;
+
+
+/* Rectangle 13 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 759px;
+top: 763px;
+
+border: 1px solid #808080;
+border-radius: 5px;
+
+
+/* Rectangle 14 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 759px;
+top: 820px;
+
+border: 1px solid #808080;
+border-radius: 5px;
+
+
+/* Rectangle 15 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 759px;
+top: 877px;
+
+border: 1px solid #808080;
+border-radius: 5px;
+
+
+/* Rectangle 16 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 759px;
+top: 934px;
+
+border: 1px solid #808080;
+border-radius: 5px;
+
+
+/* Rectangle 17 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 759px;
+top: 991px;
+
+border: 1px solid #808080;
+border-radius: 5px;
+
+
+/* Rectangle 18 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 759px;
+top: 1048px;
+
+border: 1px solid #808080;
+border-radius: 5px;
+
+
+/* Rectangle 19 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 759px;
+top: 1105px;
+
+border: 1px solid #808080;
+border-radius: 5px;
+
+
+/* Rectangle 20 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 759px;
+top: 1162px;
+
+border: 1px solid #808080;
+border-radius: 5px;
+
+
+/* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1013px;
+height: 874px;
+left: 636px;
+top: 326px;
+
+border: 1px solid #808080;
+border-radius: 20px;
+
+
+/* Line 1 */
+
+position: absolute;
+width: 1012px;
+height: 0px;
+left: 637px;
+top: 391px;
+
+border: 1px solid #808080;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 874px;
+height: 0px;
+left: 711px;
+top: 1200px;
+
+border: 1px solid #808080;
+transform: rotate(-90deg);
+
+
+/* Line 3 */
+
+position: absolute;
+width: 874px;
+height: 0px;
+left: 836px;
+top: 1200px;
+
+border: 1px solid #808080;
+transform: rotate(-90deg);
+
+
+/* Rectangle 22 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 500px;
+height: 355px;
+left: 47px;
+top: 537px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 400px;
+height: 274px;
+left: 110px;
+top: 584px;
+
+
+
+/* Name : John Stark */
+
+position: absolute;
+width: 236px;
+height: 29px;
+left: 110px;
+top: 584px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* USERNAME : JohnStark29 */
+
+position: absolute;
+width: 320px;
+height: 29px;
+left: 111px;
+top: 633px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* EMAIl : JOHNSTARK@OFFICE.COM */
+
+position: absolute;
+width: 399px;
+height: 29px;
+left: 111px;
+top: 682px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* AGE : 18 YEARS */
+
+position: absolute;
+width: 173px;
+height: 29px;
+left: 111px;
+top: 731px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* GENDER : MALE */
+
+position: absolute;
+width: 181px;
+height: 29px;
+left: 110px;
+top: 780px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* LOCATION : NEW DELHI, INDIA */
+
+position: absolute;
+width: 345px;
+height: 29px;
+left: 111px;
+top: 829px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 69px;
+top: 592px;
+
+background: #808080;
+
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 69px;
+top: 644px;
+
+background: #808080;
+
+
+/* Ellipse 9 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 69px;
+top: 696px;
+
+background: #808080;
+
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 69px;
+top: 742px;
+
+background: #808080;
+
+
+/* Ellipse 11 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 69px;
+top: 794px;
+
+background: #808080;
+
+
+/* Ellipse 12 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 69px;
+top: 846px;
+
+background: #808080;
